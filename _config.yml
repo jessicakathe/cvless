@@ -1,30 +1,30 @@
 # site settings
 
 title: Actuaria Jessica Franco 
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+description: Proactive Actuary, MBA and Data Scientist. Polyglot.
+taglong: Proactive Actuary, MBA and Data Scientist. Polyglot.
+tagshort: Actuary
+url: actuariajessicafranco.com
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/jessicakathe/jessicakathe.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Jessica Franco
+  email: actuaria.jessica.franco@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  facebook: Actuaria-Jessica-Franco-100065442851379
+  github: jessicakathe
+  instagram: jessica_kathe
+  linkedin: actuariajessicafranco
+  stackoverflow: 0000000/22840814
+  twitter: jkfrancog
 
 # build settings
 
