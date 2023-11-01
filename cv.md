@@ -7,15 +7,17 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## Experiencia
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Proactiva e innovadora Actuaria de University of Leicester; MBA y Científica de Datos; Manejo cinco idiomas. Tengo más de 7 años de experiencia en gestión y medición del riesgo. Asumo una aptitud especial para liderar y comunicar aspectos técnico-analíticos complejos de una manera simple.
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+* Manager Actuarial, Addactis Latina
+* Responsable de Actuaria, Coosalud
+* Líder de Actuaria, Compensar Salud
+* Directora de actuaría, HDI Seguros
 
-### Subsection
+### Educación
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* MSc in Actuarial Sciences, University of Leicester, Leicester, UK.
+* Executive MBA, Formato Educativo con Universidad de Cádiz, Madrid, España.
+* Pregrado en Estadística, Universidad Nacional de Colombia, Bogotá, Colombia.
